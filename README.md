@@ -35,4 +35,4 @@ Este projeto foi desenvolvido com o objetivo de praticar as habilidades de:
 
 ## Licença
 
-Este projeto é disponibilizado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto é disponibilizado sob a Licença MIT.
